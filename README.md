@@ -1,2 +1,2 @@
 # giit-github
-this is first time i am learning
+this is first time i am learning Github
